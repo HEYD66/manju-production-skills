@@ -1,0 +1,4 @@
+interface:
+  display_name: "漫剧抽卡"
+  short_description: "把漫剧分镜转成AI视频抽卡提示词并做一致性检查规范"
+  default_prompt: "Use $manju-video-carding to turn these storyboard blocks and assets into clean AI video carding prompts."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "漫剧美工资产"
+  short_description: "整理漫剧人设场景道具资产表并生成稳定生图提示词规范"
+  default_prompt: "Use $manju-art-assets to extract characters, scenes, props, and image prompts from this manju script."

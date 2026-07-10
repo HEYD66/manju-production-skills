@@ -1,0 +1,4 @@
+interface:
+  display_name: "漫剧分镜"
+  short_description: "把漫剧剧本拆成适合AI视频生成的十五秒区块分镜脚本"
+  default_prompt: "Use $manju-storyboard to convert this Chinese manju script into 15-second AI video storyboard blocks."
