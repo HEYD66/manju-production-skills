@@ -1,14 +1,12 @@
 # Manju Production Skills
 
-AI 漫剧生产流程技能包，包含分镜、美工资产、抽卡提示词三个 Codex skill，以及《茉莉花开》样例输出。
+AI 漫剧生产流程技能包，包含分镜、美工资产、抽卡提示词三个 Codex skill。
 
 ## Contents
 
 - `skills/manju-storyboard`: 剧本转分镜与视频提示词表。
 - `skills/manju-art-assets`: 美工资产表、人设、场景、道具提示词规范。
 - `skills/manju-video-carding`: 抽卡、首尾帧、视频生成卡片提示词规范。
-- `tools/build_manju_test.mjs`: 用于生成样例 Excel 的本地脚本。
-- `examples/manju_test`: 《茉莉花开》测试样例，包括分镜提示词表、美工资产表、预览图和 16:9 资产图。
 
 ## Workflow
 
